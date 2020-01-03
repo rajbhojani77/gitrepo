@@ -1,1 +1,16 @@
 list
+	new{0}:
+			{
+				read,
+				write
+			}
+	new{1}:
+			{
+				read,
+				write
+			}
+	new{2}:
+			{
+				read,
+				write
+			}			
