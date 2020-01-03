@@ -1,0 +1,15 @@
+list
+	new{0}:
+			{
+				read,
+			}
+	new{1}:
+			{
+				read,
+				write
+			}
+	new{2}:
+			{
+				red,
+				write
+			}			
